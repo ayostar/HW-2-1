@@ -1,4 +1,4 @@
-## Descriptiong
+## Description
 This repository was created by a Netology student to do homework on Git topic.
 
 | REPOSITORY LOCATION | URL |
